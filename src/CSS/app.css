@@ -1,0 +1,102 @@
+.Quiz{
+  background-image:url('../Images/student3.jpg');
+  background-repeat: no-repeat;
+  background-color: aquamarine;
+  margin:40px auto;
+  font:white; 
+  margin:30px auto; 
+  background-size: 900ypx 100px;   
+  background-size: cover;
+  width: 100%;
+  height: 100%;    
+}
+
+.header {
+    position:fixed;
+    height: 20px;
+    width:100%;
+    display: block;
+    overflow: hidden;
+    background-color: #708c8d;
+    padding: 20px 10px;
+    margin:8px auto;
+  }
+  
+.button3{
+  background-color: rgb(238, 218, 130);
+    border: 0; 
+    font-family: inherit;
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 32px;
+    margin: 6px 2px;
+}
+
+.button4{
+  background-color: rgb(51, 169, 238);
+    border: 0; 
+    font-family: inherit;
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 15px 32px;
+    margin: 6px 2px;
+}
+
+.button5{
+  background-color: rgb(235, 179, 26);
+    border: 0; 
+    font-family: inherit;
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 15px 32px;
+    margin: 6px 2px;
+}
+
+.button6{
+  background-color: rgb(32, 165, 19);
+    border: 0; 
+    font-family: inherit;
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 15px 32px;
+    margin: 6px 2px;
+}
+
+.button7{
+  background-color: rgb(231, 103, 80);
+    border: 0; 
+    font-family: inherit;
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 15px 32px;
+    margin: 6px 2px;
+}
+
+.button8{
+  background-color: rgb(141, 85, 187);
+    border: 0; 
+    font-family: inherit;
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 15px 32px;
+    margin: 6px 2px;
+}
+
+h3 {
+display: inline;
+color: aliceblue;
+}
+
+

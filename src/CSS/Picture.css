@@ -1,0 +1,13 @@
+
+.Picure{
+    margin:40px auto;
+    background-image:url('../Images/student3.jpg');
+    background-repeat: no-repeat;
+    background-color: aquamarine;  
+    font:white;
+    margin:30px auto;
+    background-size: 900ypx 100px; 
+    background-size: cover;
+    width: 100%;
+    height: 100%; 
+}

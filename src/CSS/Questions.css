@@ -1,0 +1,38 @@
+.Questions{
+    /*position: relative;
+    height:200px;
+    width: 400px;
+    margin-top: 8px;
+    top: 80px;
+    left: 10rem;
+    
+    align-items: flex-start;
+    
+    margin-left: 10px;
+    margin-top: 10px;
+    
+    background-color: rgb(236, 211, 127);*/
+    margin-top: 10px;
+    height: 200px; /*Specify Height*/
+    width:  550px; /*Specify Width*/
+    border: 1px solid rgb(180, 176, 245); /*Add 1px solid border, use any color you want*/
+    background-color: rgb(194, 173, 55); /*Add a background color to the box*/
+    text-align:left;
+    margin-left: 80px;
+}
+
+.button2{
+    background-color: rgb(217, 228, 230);
+    border: 0; 
+    font-family: inherit;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+   
+}
+.fieldset{
+    height:300px
+
+}
